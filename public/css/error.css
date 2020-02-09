@@ -1,0 +1,7 @@
+body {
+    background: #dedede;
+    color: red;
+}
+.page-wrap {
+    min-height: 100vh;
+}
